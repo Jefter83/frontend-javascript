@@ -1,3 +1,4 @@
+"export function isDirector"
 // Interfaces
 interface DirectorInterface {
   workFromHome(): string;
