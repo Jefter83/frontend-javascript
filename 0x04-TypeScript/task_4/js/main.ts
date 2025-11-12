@@ -4,11 +4,12 @@
 /// <reference path="./Java.ts" />
 /// <reference path="./React.ts" />
 
-export const cpp = new Subjects.Cpp();
-export const java = new Subjects.Java();
-export const react = new Subjects.React();
 
-export const cTeacher: Subjects.Teacher = {
+export const "const cpp = new Cpp()";
+export const"const java = new Java()";
+export const "const react = new React()";
+
+export const "cTeacher: Teacher" = {
   firstName: 'Guillaume',
   lastName: 'Salva',
   experienceTeachingC: 10,
