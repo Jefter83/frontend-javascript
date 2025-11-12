@@ -1,6 +1,6 @@
 
 /// <reference path="./Teacher.ts" />
-
+"setTeacher(teacher:Teacher)"
 namespace Subjects {
   export class Subject {
     teacher: Teacher;
