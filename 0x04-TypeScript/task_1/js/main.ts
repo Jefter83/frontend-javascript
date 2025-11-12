@@ -9,10 +9,10 @@ interface Teacher {
 
 // Example usage
 const teacher3: Teacher = {
-  firstName: 'John',
-  lastName: 'Doe',
+  firstName: 'Adinkrah',
+  lastName: 'Jefter',
   fullTimeEmployee: false,
-  location: 'London',
+  location: 'Ghana',
   contract: false,
 };
 
